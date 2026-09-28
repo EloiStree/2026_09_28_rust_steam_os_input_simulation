@@ -1,0 +1,22 @@
+
+# Rust build artifacts
+target/
+
+# Cargo.lock is usually committed for applications and binaries.
+# Uncomment the following line for libraries that intentionally omit it.
+# Cargo.lock
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Linux desktop and SteamOS files
+*~
+.directory
+.Trash-*
